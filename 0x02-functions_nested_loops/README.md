@@ -1,1 +1,2 @@
-Nested loops
+This directory contains all Nested loop projects and functions done in Alx
+many more projects to come,...
